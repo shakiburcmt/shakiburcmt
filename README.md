@@ -10,13 +10,12 @@
 
 ## :eyes: Current overview
 
-<img align="right" alt="Coding" width="400" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
+<!-- ### 🔭 I’m working - In Programming Hero.  -->
+### 🌱 I’m currently learning **Redux, Next.js, TypeScript** 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development.
-<!-- ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages. -->
+### ⚡ Fun fact - I believe in hard work with patience. Love to learn.
 
 
 <br />
@@ -35,7 +34,7 @@
 </p><br/>
 
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Current stats
 
 <br />
 <p align="center">
