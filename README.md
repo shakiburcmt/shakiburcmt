@@ -11,14 +11,13 @@
 ## :eyes: Current overview
 
 <div align="right">
-<img width="400" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif"/>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif"/>
 </div>
 
-<div>
-  ### 🔭 I’m working - In Programming Hero. 
+### 🔭 I’m working - In Programming Hero. 
 ### 🌱 I’m exploring - Advance motion graphics for web. 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. </div>
+### 🤔 I’m trying - To help people learn web development.
 <!-- ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages. -->
 
 
