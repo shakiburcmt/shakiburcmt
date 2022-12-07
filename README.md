@@ -10,10 +10,10 @@
 
 ## :eyes: Current overview
 
-<img align="right" alt="Coding" width="300" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
 
 <!-- ### 🔭 I’m working - In Programming Hero.  -->
-### 🌱 I’m currently learning **Redux, Next.js, TypeScript** 
+### 🌱 I’m currently learning Redux, Next.js, TypeScript
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### ⚡ Fun fact - I believe in hard work with patience. Love to learn.
 
