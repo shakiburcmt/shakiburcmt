@@ -11,7 +11,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+<a href="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif" width="400" alt="Shakibur's Gif"/></a>
 </div>
 
 ### 🔭 I’m working - In Programming Hero. 
