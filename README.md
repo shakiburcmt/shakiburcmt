@@ -10,14 +10,13 @@
 
 ## :eyes: Current overview
 
-<img align="right" alt="Coding" width="350" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
 
 - 🌱 I’m currently learning Redux, Next.js, TypeScript.
 - 👯 I’m looking to collaborate on open source projects. 
 - 💬 Ask me about JavaScript, React, Express, Firebase, MongoDB
 - 📫 How to reach me: shakiburrahman10010@gmail.com 
 - ⚡ Fun fact: I believe in hard work with patience. Love to learn. 
-
 
 <br />
 
@@ -34,6 +33,10 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p><br/>
 
+## Most used languages
+
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcmt)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ## :chart_with_upwards_trend: Current stats
 
