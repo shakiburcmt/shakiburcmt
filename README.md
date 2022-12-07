@@ -1,12 +1,12 @@
 ![I am a passionate frontend developer.](https://github.com/shakiburcmt/shakiburcmt/blob/main/images/Md.%20Shakibur%20Rahman.png)
 
-## :mailbox: Reach me out
+## :mailbox: Reach Me Out
 
 <br />
 
 [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)<br />
 
-## :eyes: Current overview
+## :eyes: Current Overview
 
 <img align="right" alt="Coding" width="300" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
 
@@ -24,7 +24,7 @@
 
 <br />
 
-## :computer: Technologies that I know
+## :computer: Technologies That I Know
 
 <br>
 
@@ -41,7 +41,7 @@
 
 <br/>
 
-## :chart_with_upwards_trend: Current stats
+## :chart_with_upwards_trend: Current Stats
 
 <br />
 
