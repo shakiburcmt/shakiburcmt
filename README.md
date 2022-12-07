@@ -10,11 +10,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
 
-- 🌱 I’m currently learning Redux, Next.js, TypeScript.
-- 👯 I’m looking to collaborate on open source projects. 
+- 🌱 I’m currently learning Redux, Next.js, TypeScript
+- 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about JavaScript, React, Express, Firebase, MongoDB
 - 📫 How to reach me: shakiburrahman10010@gmail.com 
-- ⚡ Fun fact: I believe in hard work with patience. Love to learn. 
+- ⚡ Fun fact: I believe in hard work with patience. Love to learn
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcmt&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
@@ -29,14 +29,14 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/css.png"/>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/react.png"/>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/node.png"/>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/express.png"/>
 </p>
 
 <br/>
