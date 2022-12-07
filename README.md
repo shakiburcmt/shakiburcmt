@@ -36,8 +36,7 @@
 ## Most used languages
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcmt)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 ## :chart_with_upwards_trend: Current stats
 
 <br />
