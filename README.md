@@ -12,10 +12,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
 
-<!-- ### 🔭 I’m working - In Programming Hero.  -->
-### 🌱 I’m currently learning Redux, Next.js, TypeScript
-### 👯 I’m looking - To collaborate on open source projects. 
-### ⚡ Fun fact - I believe in hard work with patience. Love to learn.
+- 🌱 I’m currently learning Redux, Next.js, TypeScript.
+- 👯 I’m looking to collaborate on open source projects. 
+- 💬 Ask me about JavaScript, React, Express, Firebase, MongoDB
+- 📫 How to reach me: shakiburrahman10010@gmail.com 
+- ⚡ Fun fact: I believe in hard work with patience. Love to learn. 
 
 
 <br />
