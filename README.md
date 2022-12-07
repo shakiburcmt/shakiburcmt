@@ -33,10 +33,12 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p><br/>
 
-## Most used languages
+## :chart_with_upwards_trend: Current stats
 
-<br/>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakiburcmt&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" alt="shakibur" /></p>
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?user=shakiburcmt&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+</p>
 <br/>
 
 ## :chart_with_upwards_trend: Current stats
