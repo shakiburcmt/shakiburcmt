@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shakiburrahman10010/" target="_blank"><img align="center" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/linkedin-svgrepo-com.svg" alt="shakiburrahman10010" height="90" width="100" /></a>
+<a href="https://www.linkedin.com/in/shakiburrahman10010/" target="blank"><img align="center" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/linkedin-svgrepo-com.svg" alt="shakiburrahman10010" height="90" width="100" /></a>
 <a href="https://twitter.com/shakiburrahman0" target="blank"><img align="center" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/twitter-svgrepo-com.svg" alt="shakiburrahman0" height="90" width="100" /></a>
 <a href="https://www.facebook.com/shakiburrahman10010/" target="blank"><img align="center" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/facebook-svgrepo-com%20(1).svg" height="90" width="100" /></a>
 </p>
