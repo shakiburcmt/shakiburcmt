@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a class="button" href="https://www.youtube.com/watch?v=QOUp0GmgCQg">Click</a>
 ## :chart_with_upwards_trend: Current Stats
 
 <!-- <br /> -->
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakiburcmt&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-</p>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shakiburcmt?cardType=octocat&theme=synthwave)](https://git.io/awesome-stats-card)
