@@ -11,7 +11,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif" width="400" alt="Shakibur's Gif"/></a>
+<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif"/>
 </div>
 
 ### 🔭 I’m working - In Programming Hero. 
