@@ -14,10 +14,11 @@
 <img width="400" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif"/>
 </div>
 
-### 🔭 I’m working - In Programming Hero. 
+<div>
+  ### 🔭 I’m working - In Programming Hero. 
 ### 🌱 I’m exploring - Advance motion graphics for web. 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
+### 🤔 I’m trying - To help people learn web development. </div>
 <!-- ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages. -->
 
 
