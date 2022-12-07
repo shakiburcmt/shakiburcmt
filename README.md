@@ -31,9 +31,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-</p><br/>
-
-## :chart_with_upwards_trend: Current stats
+</p>
 
 <br />
 <p align="center">
