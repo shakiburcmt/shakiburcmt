@@ -1,6 +1,8 @@
 ![I am a passionate frontend developer.](https://github.com/shakiburcmt/shakiburcmt/blob/main/images/Md.%20Shakibur%20Rahman.png)
 
-## :mailbox: Reach me out<br />
+## :mailbox: Reach me out
+
+<br />
 
 [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
 
