@@ -19,6 +19,11 @@
 - ⚡ Fun fact: I believe in hard work with patience. Love to learn. 
 
 <br />
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcmt&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+<br />
 
 ## :computer: Technologies that I know
 <br>
@@ -32,12 +37,6 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p><br/>
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcmt&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-<br/>
 
 ## :chart_with_upwards_trend: Current stats
 
