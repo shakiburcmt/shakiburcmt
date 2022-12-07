@@ -1,12 +1,13 @@
-### Hi there 👋
-![I am a Junior Front-end developer. ](https://github.com/shakiburcmt/shakiburcmt/blob/main/images/Md.%20Shakibur%20Rahman.png)
-  </div>
+![I am a passionate frontend developer.](https://github.com/shakiburcmt/shakiburcmt/blob/main/images/Md.%20Shakibur%20Rahman.png)
 
 ## :mailbox: Reach me out
 
 <br />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakiburcmt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/d/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shaj)
+<p align="center">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shakiburrahman10010)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shakiburrahman10010/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shakiburrahman0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shakibur-rahman-portfolio.netlify.app/)</p>
+
+
+
 <!--
 **shakiburcmt/shakiburcmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
