@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a class="button">Click</a>
 ## :chart_with_upwards_trend: Current Stats
 
 <!-- <br /> -->
