@@ -10,7 +10,7 @@
 
 ## :eyes: Current overview
 
-<div align="left">
+<div align="right">
 <img width="400" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif"/>
 </div>
 
