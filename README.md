@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I believe in hard work with patience. Love to learn
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcmt&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcmt&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/shakiburcmt)
