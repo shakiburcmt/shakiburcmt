@@ -1,55 +1,81 @@
-![I am a passionate frontend developer.](https://github.com/shakiburcmt/shakiburcmt/blob/main/images/Md.%20Shakibur%20Rahman.png)
+<div align="center">
 
-## :mailbox: Reach Me Out
+## 👋 Hi, I'm **Md. Shakibur Rahman**
 
-<br />
+**Full Stack Developer — React / Next.js / Node.js / Tailwind CSS**  
+📍 Dhaka, Bangladesh · 📧 shakibur.cmt@gmail.com  
 
+---
+
+### 🚀 Tech Stack
 <p align="center">
-<a href="https://www.linkedin.com/in/shakiburrahman10010/" target="blank"><img align="center" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/linkedin-svgrepo-com.svg" alt="shakiburrahman10010" height="90" width="100" /></a>
-<a href="https://twitter.com/shakiburrahman0" target="blank"><img align="center" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/twitter-svgrepo-com.svg" alt="shakiburrahman0" height="90" width="100" /></a>
-<a href="https://www.facebook.com/shakiburrahman10010/" target="blank"><img align="center" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/facebook-svgrepo-com%20(1).svg" height="90" width="100" /></a>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 </p>
 
-## :eyes: Current Overview
+---
 
-<img align="right" alt="Coding" width="300" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
+</div>
 
-- 🌱 I’m currently learning Redux, Next.js, TypeScript
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about JavaScript, React, Express, Firebase, MongoDB
-- 📫 How to reach me: shakiburrahman10010@gmail.com 
-- ⚡ Fun fact: I believe in hard work with patience. Love to learn
+## 📄 About Me
+Full Stack Developer skilled in **modern UI, scalable backend systems, clean code, and performance-focused apps**.  
+Experienced in building production-ready applications using **React, Next.js, Express, Prisma, and Tailwind CSS**.
 
-<p>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcmt&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
+---
 
-![Profile views](https://gpvc.arturio.dev/shakiburcmt)
+## 💼 Work Experience
 
-<br />
+### **Frontend Developer — WebTech BD**  
+*Nov 2024 – Jan 2025 · Dhaka*  
+- Built a responsive e-commerce UI with **Next.js, Tailwind, DaisyUI**  
+- Implemented authentication using **Auth.js**  
+- Created CRUD-based Daily Planner using **PostgreSQL + Prisma + EJS**
 
-## :computer: Technologies That I Know
+### **Junior Instructor — Dhaka Polytechnic (Part-time)**  
+*Aug 2021 – Apr 2022*  
+- Taught **OOP (Java)**, Operating Systems, App Development  
+- Mentored students in hands-on programming and problem solving
 
-<br>
+---
 
-<p align="center">
-<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/css.png"/>
-<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/react.png"/>
-<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/node.png"/>
-<img src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/icons/express.png"/>
-</p>
+## 🧩 Projects
+- **E-Commerce Platform** — Next.js, Tailwind, Auth.js  
+- **Daily Planner** — Prisma, PostgreSQL, EJS, Node.js  
+- **Jewelry Resale App** — React, Firebase Auth, JWT, MongoDB  
+- **Programmer’s Kitchen** — Product/Order management  
+- **Graph-AI** — PDF export, dark/light mode, premium gating
 
-<br/>
+---
 
-## :chart_with_upwards_trend: Current Stats
+## 🎓 Education
+- **B.Sc. CSE (Ongoing)** — Northern University Bangladesh  
+- **Diploma (CSE)** — Dhaka Polytechnic Institute
 
-<br />
+---
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakiburcmt&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-</p>
+## 🏆 Co-Curricular Activities
+- Mentored for **Bangladesh Robot Olympiad**  
+- Participated in NHSPC & ICPC mock contests  
+- Operated a **660-member blood directory community**
 
+---
+
+<div align="center">
+
+### 🔗 Connect With Me
+<a href="https://shakibur-rahman-portfolio.netlify.app" target="_blank">🌐 Portfolio</a> |
+<a href="https://www.linkedin.com/in/shakiburcse" target="_blank">🔗 LinkedIn</a> |
+<a href="https://github.com/shakiburcmt" target="_blank">💻 GitHub</a>
+
+---
+
+⭐ *Thanks for visiting my profile!*
+
+</div>
