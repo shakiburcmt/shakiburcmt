@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm **Md. Shakibur Rahman**
 
-**Full Stack Developer — React / Next.js / Node.js / Tailwind CSS**  
+**Full Stack Developer — React / Next.js / Node.js**  
 📍 Dhaka, Bangladesh · 📧 shakibur.cmt@gmail.com  
 
 ---
@@ -41,7 +41,7 @@ Experienced in building production-ready applications using **React, Next.js, Ex
 ### **Junior Instructor — Dhaka Polytechnic (Part-time)**  
 *Aug 2021 – Apr 2022*  
 - Taught **OOP (Java)**, Operating Systems, App Development  
-- Mentored students in hands-on programming and problem solving
+- Mentored students in hands-on programming and problem-solving
 
 ---
 
@@ -56,7 +56,7 @@ Experienced in building production-ready applications using **React, Next.js, Ex
 
 ## 🎓 Education
 - **B.Sc. CSE (Ongoing)** — Northern University Bangladesh  
-- **Diploma (CSE)** — Dhaka Polytechnic Institute
+- **Diploma (Computer Technology)** — Dhaka Polytechnic Institute
 
 ---
 
@@ -71,8 +71,7 @@ Experienced in building production-ready applications using **React, Next.js, Ex
 
 ### 🔗 Connect With Me
 <a href="https://shakibur-rahman-portfolio.netlify.app" target="_blank">🌐 Portfolio</a> |
-<a href="https://www.linkedin.com/in/shakiburcse" target="_blank">🔗 LinkedIn</a> |
-<a href="https://github.com/shakiburcmt" target="_blank">💻 GitHub</a>
+<a href="https://www.linkedin.com/in/shakiburcse" target="_blank">🔗 LinkedIn</a>
 
 ---
 
