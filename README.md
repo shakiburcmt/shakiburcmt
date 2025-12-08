@@ -69,9 +69,9 @@ Experienced in building production-ready applications using **React, Next.js, Ex
 
 <div align="center">
 
-### 🔗 Connect With Me
-<a href="https://shakibur-rahman-portfolio.netlify.app" target="blank">🌐 Portfolio</a> |
-<a href="https://www.linkedin.com/in/shakiburcse" target="blank">🔗 LinkedIn</a>
+### 🔗 Connect With Me  
+<a href="https://shakibur-rahman-portfolio.netlify.app" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a> | 
+<a href="https://www.linkedin.com/in/shakiburcse" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a>
 
 ---
 
