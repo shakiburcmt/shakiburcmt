@@ -70,9 +70,8 @@ Experienced in building production-ready applications using **React, Next.js, Ex
 <div align="center">
 
 ### 🔗 Connect With Me
-[🌐 Portfolio](https://my-new-portfolio-sooty-gamma.vercel.app) |
-[🔗 LinkedIn](https://www.linkedin.com/in/shakiburcse)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://my-new-portfolio-sooty-gamma.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakiburcse)
 ---
 
 ⭐ *Thanks for visiting my profile!*
