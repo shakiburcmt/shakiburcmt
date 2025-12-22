@@ -71,21 +71,6 @@ Experienced in building production-ready applications using **React, Next.js, Ex
 
 ### 🔗 Connect With Me [🌐 Portfolio](https://my-new-portfolio-sooty-gamma.vercel.app) | [🔗 LinkedIn](https://www.linkedin.com/in/shakiburcse)
 
-<!-- Decorative stroke / underline below connect links -->
-<div style="width:220px; height:6px; margin:12px auto 18px; border-radius:6px; background: linear-gradient(90deg,#06b6d4,#7c3aed);"></div>
-
-<!-- GitHub stats + commit activity. Replace `shakiburcse` with your GitHub username -->
-<p align="center">
-  <!-- Full GitHub stats card (github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shakiburcmt&show_icons=true&hide_border=true" alt="GitHub stats" />
-
-  <!-- Optional smaller badges: total commits / last year activity (replace USERNAME & REPO if needed) -->
-  <!-- Commit activity (replace USERNAME/REPO if you want repo-specific) -->
-  <br/>
-  <img src="https://img.shields.io/github/last-commit/shakiburcmt/REPO-NAME?style=for-the-badge" alt="last commit" />
-  <img src="https://img.shields.io/github/commit-activity/m/shakiburcmt?style=for-the-badge" alt="commit activity" />
-</p>
-
 ---
 
 ⭐ *Thanks for visiting my profile!*
